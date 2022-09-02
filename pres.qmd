@@ -1,0 +1,41 @@
+---
+title: "Ciência de Dados na Educação Pública"
+author: "Karla Patrícia Oliveira Esquerre e Robson W S Pessoa"
+format: revealjs
+editor: visual
+---
+
+## Cenário da Ciência de Dados
+
+[Royal Society](https://royalsociety.org/-/media/policy/Publications/2018/2018-07-16-integration-of-data-science-primary-secondary-curriculum.pdf)
+
+<https://www.unesco.org/en/articles/unesco-releases-report-mapping-k-12-artificial-intelligence-curricula>.
+
+[Recursos](https://www.mastersindatascience.org/resources/resources-teach-learn-data-science-high-school/)
+
+## Lista de materiais
+
+- Ebooks
+- 
+
+-   Content authored with markdown
+-   Output from executable code
+
+## (re)Conhecendo Salvador
+
+
+
+
+## Códigos
+```{r}
+1 + 1
+```
+
+
+
+## Oficina
+
+
+
+
+##  Referência
